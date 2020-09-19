@@ -1,0 +1,11 @@
+
+
+Step 1: Download both files GetAPIswapi.java  and swapi.jar
+Step 2:Import project GetAPIswapi.java
+Step 3: adding external jar "swapi.jar" in project GetAPIswapi.java
+		- For eclipse 
+			* right click on project GetAPIswapi.java
+			* Select buildin path
+			*click library
+			* click add external jar
+			* select "swapi.jar"
